@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"driv",
+				"driverId"
+			],
+			[
+				"constr",
+				"constructorId"
+			],
+			[
+				"sear",
+				"searchFilter	(controllers.js)"
+			],
+			[
+				"Con",
+				"Constructor"
+			],
+			[
+				"search",
+				"searchFilter	(controllers.js)"
+			],
+			[
+				"fil",
+				"filter: date	AngularJS"
+			],
+			[
+				"ser",
+				"services	(services.js)"
+			],
+			[
+				"control",
+				"controllers	(index.html)"
+			],
+			[
+				"dri",
+				"driversController	(index.html)"
+			],
+			[
+				"angu",
+				"angular	AngularJS"
+			],
+			[
+				"htm",
+				"html"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sty",
+				"style	(map.html)"
+			],
+			[
+				"ini",
+				"initCoor"
+			],
+			[
+				"to",
+				"toUpperCase〔function〕"
+			],
+			[
+				"down",
+				"downSNR"
+			],
+			[
+				"device",
+				"devices"
+			],
+			[
+				"expl",
+				"explode"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"fu",
+				"full_title	(application_helper.rb)"
+			],
+			[
+				"vali",
+				"validates	(micropost.rb)"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"show",
+				"showDevice"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"devic",
+				"device"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"att",
+				"attachInfoWindow"
+			],
+			[
+				"init",
+				"initMarker"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"mark",
+				"marker"
+			],
+			[
+				"info",
+				"infowindow"
+			],
+			[
+				"clic",
+				"click"
+			],
+			[
+				"conten",
+				"contentString"
+			],
+			[
+				"arti",
+				"articles_path	(show.html.erb)"
+			],
+			[
+				"Ar",
+				"Article"
+			],
+			[
+				"all",
+				"all	func"
+			],
+			[
+				"artic",
+				"article_params"
+			],
+			[
+				"form",
+				"formdate	{!! Form::date() !!}"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"Regis",
+				"RegisterController	(RegisterController.php)"
+			],
+			[
+				"Aut",
+				"Auth	(LoginController.php)"
+			],
+			[
+				"Reques",
+				"Request"
+			],
+			[
+				"Articel",
+				"ArticlesController	(ArticlesController.php)"
+			],
+			[
+				"artice",
+				"articles"
+			],
+			[
+				"Check",
+				"CheckArticlesRequest	(CheckArticlesRequest.php)"
+			],
+			[
+				"Chec",
+				"CheckArticlesRequest"
+			],
+			[
+				"Arti",
+				"ArticlesController@create"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"Arc",
+				"ArticlesController	(ArticlesController.php)"
+			],
+			[
+				"logout",
+				"logoutRedirectUri"
+			],
+			[
+				"log",
+				"logout〔function〕"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"red",
+				"redirect_uri"
+			],
+			[
+				"acce",
+				"accessToken"
+			],
+			[
+				"isse",
+				"isset〔keyword〕"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"date_def",
+				"date_default_timezone_set"
+			],
+			[
+				"paymen",
+				"paymentName"
+			],
+			[
+				"payment",
+				"paymentName"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"full",
+				"fullName"
+			],
+			[
+				"implo",
+				"implode〔function〕"
+			],
+			[
+				"die",
+				"die〔keyword〕"
+			],
+			[
+				"send",
+				"sendEmail〔function〕"
+			],
+			[
+				"_SE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"requ",
+				"require_once〔keyword〕"
+			],
+			[
+				"VTC",
+				"VTCPay"
+			],
+			[
+				"bo",
+				"bookingid"
+			],
+			[
+				"cus",
+				"customer_note"
+			],
+			[
+				"sess",
+				"session_start〔function〕"
+			],
+			[
+				"thanh",
+				"thanhtoanonline	(index.php)"
+			],
+			[
+				"imp",
+				"implode〔function〕"
+			],
+			[
+				"inclu",
+				"include_once"
+			],
+			[
+				"libpay",
+				"libpayment.php"
+			],
+			[
+				"ven",
+				"vendor/"
+			],
+			[
+				"pay",
+				"payment_bank_name"
+			],
+			[
+				"number",
+				"number_format〔function〕"
+			],
+			[
+				"confi",
+				"confirmStep"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"confirm",
+				"confirmStep	(tiep-tuc.php)"
+			],
+			[
+				"include_on",
+				"include_once〔keyword〕"
+			],
+			[
+				"empt",
+				"empty〔function〕"
+			],
+			[
+				"emp",
+				"empty〔function〕"
+			],
+			[
+				"hea",
+				"header	(header.php)"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"valid",
+				"validName〔function〕"
+			],
+			[
+				"cu",
+				"customer_name"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fec",
+				"fechasalida"
+			],
+			[
+				"Pu",
+				"Prueba	(17032.TXT)"
+			],
+			[
+				"Disp",
+				"Disponibilidad+Prueba"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"login",
+				"login_date_time"
+			],
+			[
+				"au",
+				"auditLog"
+			],
+			[
+				"booking",
+				"booking_id"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: |number"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"emm",
+				"Emmet: Reflect CSS Value"
+			]
+		],
+		"width": 1328.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"1+1",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/VietNT/xampp/htdocs/laravel-5/laravel-5.sublime-project",
+		"/D/VietNT/xampp/htdocs/angularjs/login/index.html",
+		"/D/VietNT/xampp/htdocs/angularjs/login/modules/home/views/home.html",
+		"/D/VietNT/xampp/htdocs/angularjs/login/modules/authentication/views/login.html",
+		"/D/VietNT/xampp/htdocs/angularjs/login/scripts/app.js",
+		"/D/VietNT/xampp/htdocs/angularjs/login/modules/authentication/services.js",
+		"/D/VietNT/xampp/htdocs/angularjs/login/modules/home/controllers.js",
+		"/D/VietNT/xampp/htdocs/angularjs/login/modules/authentication/controllers.js",
+		"/C/Users/nguyen.tien.viet/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/nguyen.tien.viet/Desktop/learnruby/hello.rb",
+		"/D/VietNT/xampp/htdocs/mapapi/js/app.js",
+		"/D/VietNT/xampp/htdocs/f1feeder/js/app.js",
+		"/D/VietNT/xampp/htdocs/f1feeder/js/controllers.js",
+		"/D/VietNT/xampp/htdocs/mapapi/data.json",
+		"/C/Users/nguyen.tien.viet/Desktop/note-task-singapore.java",
+		"/C/Users/nguyen.tien.viet/Desktop/Ruby and Rails commands on Windows",
+		"/C/Users/nguyen.tien.viet/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/D/VietNT/xampp/htdocs/baotampayoo/footer.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/js/main.js",
+		"/D/VietNT/xampp/htdocs/mapapi/js/bootstrap.js",
+		"/D/VietNT/xampp/htdocs/mapapi/js/bootstrap.min.js",
+		"/C/Users/nguyen.tien.viet/Desktop/learnangularjs.html",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-3/header.php",
+		"/D/VietNT/xampp/htdocs/mvn-tripanzeedocuments/Fill Traveller Info.txt",
+		"/D/VietNT/xampp/htdocs/f1feeder/js/services.js",
+		"/D/VietNT/xampp/htdocs/f1feeder/index.html",
+		"/D/VietNT/xampp/htdocs/tripanzee-temasek-pretty/common/config/params-local.php",
+		"/D/VietNT/xampp/htdocs/tripanzee-temasek-pretty/common/config/params.php",
+		"/D/VietNT/xampp/htdocs/tripanzee-temasek-pretty/common/config/main-local.php",
+		"/D/VietNT/xampp/htdocs/tripanzee-temasek-pretty/common/config/main.php",
+		"/D/VietNT/xampp/htdocs/tripanzee-temasek-pretty/frontend/config/params-local.php",
+		"/D/VietNT/xampp/htdocs/tripanzee-temasek-pretty/frontend/config/params.php",
+		"/D/VietNT/xampp/htdocs/tripanzee-temasek-pretty/frontend/config/main-local.php",
+		"/D/VietNT/xampp/htdocs/tripanzee-temasek-pretty/frontend/config/main.php",
+		"/D/VietNT/xampp/htdocs/tripanzee-temasek-pretty/index.php",
+		"/D/VietNT/xampp/htdocs/f1feeder/test.haml",
+		"/D/VietNT/xampp/htdocs/f1feeder/f1db.sql/f1db.sql",
+		"/D/VietNT/xampp/htdocs/f1feeder/partials/drivers.html",
+		"/D/VietNT/xampp/htdocs/f1feeder/partials/teams.html",
+		"/D/VietNT/xampp/htdocs/f1feeder/partials/races.html",
+		"/D/VietNT/xampp/htdocs/f1feeder/partials/team.html",
+		"/D/VietNT/xampp/htdocs/f1feeder/partials/race.html",
+		"/D/VietNT/xampp/htdocs/f1feeder/partials/driver.html",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/js/app.js",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/partials/race.html",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/js/services.js",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/js/controllers.js",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/partials/races.html",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/package.json",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/index.html",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/partials/teams.html",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/partials/team.html",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/view2/view2_test.js",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/view1/view1.js",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/view1/view1_test.js",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/view2/view2.js",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/partials/driver.html",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/partials/drivers.html",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/app.css",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/view2/view2.html",
+		"/D/VietNT/xampp/htdocs/f1feeder-part1/app/view1/view1.html",
+		"/D/VietNT/xampp/htdocs/singapore/sabre/SOAP issues.txt",
+		"/D/VietNT/skype-files/search-availability-response.json",
+		"/D/VietNT/skype-files/MySqlHelper.txt",
+		"/D/VietNT/xampp/htdocs/mvn-tripanzeedocuments/GTA integration flow.txt",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-2/screen.css",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-2/single.php",
+		"/C/Users/nguyen.tien.viet/Desktop/booking response to MSF.json",
+		"/D/VietNT/xampp/htdocs/mvn-tripanzeedocuments/ImplementNewProviderToMsfMsiMarketplace.txt",
+		"/D/VietNT/01. Private/IT books/.NET MVC5/pass.txt",
+		"/D/VietNT/skype-files/chuyenchuhoa.js",
+		"/D/VietNT/skype-files/demsokytu.js",
+		"/D/VietNT/xampp/phpMyAdmin/libraries/config.default.php",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/dd_vs_ultimate_20161117140359.log",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-2/payathome.php",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-2/payatoffice.php",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-2/bankinfo.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/Lib/PayooPayment.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/ket-qua-thanh-toan.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/index.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/Lib/Config.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/documents/PayooDemo_Checksum_Php/Checkout.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/documents/PayooDemo_Checksum_Php/Lib/PayooPayment.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/Lib/PayooNotify.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/Lib/ResponseType.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/Lib/RequestType.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/documents/PayooDemo_Checksum_Php/Lib/Config.php",
+		"/D/VietNT/xampp/htdocs/baotampayoo/documents/PayooDemo_Checksum_Php/index.php",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/assets/config/manifest.js",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/helpers/application_helper.rb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/helpers/static_pages_helper.rb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/assets/stylesheets/application.css",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/controllers/static_pages_controller.rb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/config/routes.rb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/assets/stylesheets/custom.scss",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/views/layouts/application.html.erb",
+		"/D/Downloads/mysql-connector-net-6.9.8-noinstall/Release Notes.txt",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/views/static_pages/contact.html.erb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/views/layouts/_footer.html.erb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/views/layouts/_header.html.erb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/views/layouts/_shim.html.erb",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-2/index.php",
+		"/D/VietNT/xampp/htdocs/singapore/ws-msiframework/MSIFrameWork/Web.config",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/models/application_record.rb",
+		"/D/VietNT/xampp/htdocs/mapapi/css/style.css",
+		"/D/VietNT/xampp/htdocs/mapapi/index2.php",
+		"/D/VietNT/xampp/htdocs/mapapi/index.php",
+		"/D/VietNT/xampp/htdocs/mapapi/css/logo-nav.css",
+		"/D/VietNT/xampp/htdocs/mapapi/map/01/map.html",
+		"/D/VietNT/xampp/htdocs/mapapi/index.html",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/assets/stylesheets/static_pages.scss",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/views/static_pages/home.html.erb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/Gemfile",
+		"/C/Users/nguyen.tien.viet/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/example_user.rb",
+		"/D/VietNT/xampp/htdocs/rubydev2/example_user.rb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/views/static_pages/help.html.erb",
+		"/D/VietNT/xampp/htdocs/phpclass/google-translate-2016-10-06/src/gtranslate.php",
+		"/D/VietNT/xampp/htdocs/phpclass/connect-db-2016-11-02/Class/DB/Class.DB.php",
+		"/D/VietNT/xampp/htdocs/phpclass/connect-db-2016-11-02/example.php",
+		"/D/VietNT/xampp/htdocs/phpclass/google-translate-2016-10-06/example.php",
+		"/D/VietNT/xampp/htdocs/mvn-msfapi/web/uploads/bookin-response-hpn+.json",
+		"/D/VietNT/xampp/htdocs/phpclass/connect-db-2016-11-02/Class/DB/Class.DB.min.php",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/controllers/application_controller.rb",
+		"/D/VietNT/xampp/htdocs/rubydev2/sample_app/app/views/static_pages/about.html.erb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>,",
+			"",
+			"D:\\VietNT\\xampp\\htdocs\\laravel-5",
+			"D:\\VietNT\\xampp\\htdocs\\hungphat\\wp-content\\themes\\GamePlus",
+			"D:\\VietNT\\xampp\\htdocs\\hungphat",
+			"D:\\VietNT\\01. Private\\shinbi\\public_html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"test",
+			"login",
+			"LoginController",
+			"$(",
+			"$",
+			"/media",
+			"http://www.transparent.com/learn-japanese/phrases.html",
+			"</span>",
+			"<span>",
+			"</li>",
+			"<img",
+			"<span>",
+			"style=\"display: none;\"",
+			"../",
+			"model",
+			"nodel",
+			"console.log",
+			"pastRaces",
+			"race/1",
+			"teamsController",
+			"getTeams",
+			"filterName",
+			"driversController",
+			"driver",
+			"myApp",
+			"<h2",
+			"Helvetica Neue LT Com",
+			"\":",
+			"Up-Cmts",
+			"Subscriber Address",
+			"Mac Address",
+			"đ",
+			"\"Alias\":",
+			"\"Description\"",
+			"\":",
+			"�",
+			"AirBook.",
+			"AirBook",
+			"&gt;",
+			"\":",
+			"{",
+			"\":",
+			"}",
+			"{",
+			"$c_",
+			" =",
+			"json_decode",
+			"->",
+			"=",
+			"ExecTimeLimit",
+			"=",
+			"''",
+			";",
+			"ho",
+			"\\\"",
+			"src=",
+			"@",
+			"=",
+			"$C",
+			"$_",
+			"']",
+			"])",
+			"isset(",
+			"btnBack",
+			"\\\"",
+			"Phương Thức Thanh Toán",
+			"controls",
+			"infowindow",
+			"console",
+			"labelIndex",
+			"image",
+			"initMarker",
+			"addMarker",
+			"initialize",
+			"beaches",
+			"initMarker",
+			",",
+			"=",
+			"''",
+			",",
+			"lng",
+			"lat",
+			"\":",
+			":",
+			"}",
+			"{",
+			"item",
+			":",
+			"{",
+			"\":",
+			"}",
+			"{",
+			":",
+			"payoo-methods",
+			"methods.js",
+			"lt",
+			"$_",
+			"' =>",
+			"\":",
+			":",
+			"}",
+			"{",
+			"$bookingItem",
+			"bookingItem",
+			"ItemPrice",
+			":",
+			"}",
+			"{",
+			"'\n",
+			"\"desc\" =>",
+			"\"desc\"",
+			"devices[i]",
+			"['",
+			"console",
+			"]?",
+			"?=",
+			"“",
+			"”",
+			"blog_development",
+			" : null,",
+			"()",
+			"=>",
+			",",
+			"=>",
+			"n']",
+			"]",
+			"zzz",
+			"=>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"UpCmts",
+			"SubscriberAddress",
+			"MacAddress",
+			"",
+			"\"",
+			"=>",
+			"/",
+			"",
+			"../images/",
+			"",
+			"batdongsan",
+			"db_mice-amlloydtc16-dev-0901"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "laravel-5.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
